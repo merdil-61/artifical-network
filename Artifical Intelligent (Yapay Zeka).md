@@ -2,6 +2,11 @@
 
 ![YZ](https://github.com/user-attachments/assets/905ef80b-c366-427f-95f7-1e9476c77209)
 
+Yapay zeka (AI), bilgisayarların sözlü ve yazılı dili görme, anlama ve tercüme etme, verileri analiz etme, önerilerde bulunma ve daha fazlası dahil olmak üzere çeşitli gelişmiş işlevleri yerine getirmesini sağlayan bir dizi teknolojidir. 
+
+**Yapay zekanın(AI) türleri**
+
+
 Geniş yapay zeka (AI), belirli bir alanda çok çeşitli görevleri yerine getirebilen ancak uzmanlaşmış bir yapay zeka sistemini ifade eder.
 
 Tesla'nın otonom sürüş sistemi, geniş AI'ya bir örnek oluşturur; çünkü her aracın deneyimi birbirine bağlanarak, her birinin AI'sına sunulan veri miktarını artırır. 
@@ -23,3 +28,6 @@ Tesla'nın AI'sı, otonom sürüş gibi belirli bir alandaki yetenekleriyle geni
 **Referanslar**
 
 Cisco Networking Academy, AI Fundamentals with IBM SkillsBuild Course Notes
+
+https://cloud.google.com/learn/what-is-artificial-intelligence
+
