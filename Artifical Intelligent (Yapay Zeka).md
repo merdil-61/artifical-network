@@ -21,4 +21,5 @@ Sonuç olarak, günümüzde kullanılan Dar AI ve Geniş AI, belirli alanlarda d
 Tesla'nın AI'sı, otonom sürüş gibi belirli bir alandaki yetenekleriyle geniş AI’ya örnek oluşturur, ancak daha geniş ve genel bir zekâ seviyesinin çok uzağındadır.
 
 **Referanslar**
+
 Cisco Networking Academy, AI Fundamentals with IBM SkillsBuild Course Notes
