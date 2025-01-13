@@ -1,4 +1,4 @@
-**Artifical Intelligent (Yapay Zeka)**
+**Artifical Intelligent (AI: Yapay Zeka)**
 
 ![YZ](https://github.com/user-attachments/assets/905ef80b-c366-427f-95f7-1e9476c77209)
 
